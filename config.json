@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdonnect",
+        "uuid": 19874586,
+        "checksum": "io2ct8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
